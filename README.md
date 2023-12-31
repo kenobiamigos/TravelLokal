@@ -42,11 +42,17 @@ TraveLokal: Where Every Destination Beckons
 
 ![Alt text](images/ERDdiagram.png)
 
-User books Packages or Hotel: Many-to-many relationship, represented by the Booking entity. A user can book multiple packages or hotels, and a package or hotel can be booked by multiple users.
+User books Packages or Hotel: 
+* Many-to-many relationship
+* A user can book multiple packages or hotels, and a package or hotel can be booked by multiple users.
 
-User gives Review: One-to-Many relationship. A user can gives many reviews, but a review can only be given by a user.
+User gives Review: 
+* One-to-Many relationship.
+* A user can gives many reviews, but a review can only be given by a user.
 
-Review is about Packages or Hotel: One-to-many relationship. A review can be about one package or hotel, but a package or hotel can have multiple reviews.
+Review is about Packages or Hotel: 
+* One-to-many relationship.
+* A review can be about one package or hotel, but a package or hotel can have multiple reviews.
 
 
 
