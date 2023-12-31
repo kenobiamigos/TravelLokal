@@ -3,7 +3,7 @@
 <h2 align="center">
 
 <p align="center">
-  <img width="80%" height="300" src="images/IIUMLOGO.jpg">
+  <img width="80%" height="10%" src="images/IIUMLOGO.jpg">
 </p>
 
 INFO 3305 WEB APPLICATION DEVELOPMENT
