@@ -62,4 +62,10 @@ Review is about Packages or Hotel:
 
 ## Sequence diagram for interaction representation
 ## Mockup
+![Alt text](images/Destination1.png)
+![Alt text](images/Destination2.png)
+![Alt text](images/Hotels.png)
+![Alt text](images/Hotels2.png)
+![Alt text](images/Account.png)
+![Alt text](images/LoginSignup.png)
 
