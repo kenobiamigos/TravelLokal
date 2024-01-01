@@ -30,7 +30,7 @@ SECTION 2
 
 ## Title of Group Project
 
-TraveLokal: Where Every Destination Beckons
+TravelLokal: Where Every Destination Beckons
 
 ## Introduction
 
